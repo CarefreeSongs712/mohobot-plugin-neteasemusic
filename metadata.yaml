@@ -1,0 +1,10 @@
+name: neteasemusic
+author: CarefreeSongs712
+display_name: 网易云点歌
+version: 1.0.0
+description: 网易云音乐搜索与点歌
+repo: https://github.com/CarefreeSongs712/mohobot-plugin-neteasemusic
+license: MIT
+api_version: 1
+mohobot_version: ">=0.1.0"
+tags: [music]
